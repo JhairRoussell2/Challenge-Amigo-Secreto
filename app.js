@@ -1,5 +1,5 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-
+//Jhair Roussell Melendez Blas
 let amigos = [];
 
 function agregarAmigo() {
@@ -24,13 +24,23 @@ function listaAmigos() {
   let lista = document.getElementById("listaAmigos");
   lista.innerHTML = "";
 
-  amigos.forEach((amigo) => {
-    lista.innerHTML += `<li>${amigo}</li>`;
+  amigos.forEach((amigo, index) => {
+    lista.innerHTML += `
+    <li class="amigo-item">
+        <span>${amigo}</span> 
+        <button class="delete-button" onclick="eliminarAmigo(${index})">Eliminar</button>
+        </li>`;
   });
 }
 
+function eliminarAmigo(index) {
+  amigos.splice(index, 1);
+  console.log("Se ha eliminado el siguiente amigo: " + amigos);
+  listaAmigos();
+}
+
 function sortearAmigo() {
-  if (amigos == 0) {
+  if (amigos.length == 0) {
     alert("No hay amigos en la lista");
     return;
   } else {
