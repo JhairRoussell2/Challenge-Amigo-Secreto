@@ -2,19 +2,29 @@
 
 let amigos = [];
 
-function agregarAmigos() {
+function agregarAmigo() {
   let nombre = document.getElementById("amigo").value;
   if (nombre == "") {
     alert("Por favor, inserte un nombre.");
-    document.getElementById('amigo') = "";
+    document.getElementById("amigo").value = "";
     return;
-  } 
-  if (amigos.includes(nombre)){
+  }
+  if (amigos.includes(nombre)) {
     alert("El amigo ya está en la lista");
     return;
-  }else {
+  } else {
     amigos.push(nombre);
-    console.log("Se ha ingresado el amigo: " + amigos);
-    document.getElementById('amigo') = "";x
+    console.log("Se ha ingresado un amigo, por ahora: " + amigos);
+    document.getElementById("amigo").value = "";
   }
+  listaAmigos();
+}
+
+function listaAmigos() {
+  let lista = document.getElementById("listaAmigos");
+  lista.innerHTML = "";
+
+  amigos.forEach((amigo) => {
+    lista.innerHTML += `<li>${amigo}</li>`;
+  });
 }
