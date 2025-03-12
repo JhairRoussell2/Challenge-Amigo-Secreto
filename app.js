@@ -3,7 +3,7 @@
 let amigos = [];
 
 function agregarAmigo() {
-  let nombre = document.getElementById("amigo").value;
+  let nombre = document.getElementById("amigo").value.trim();
   if (nombre == "") {
     alert("Por favor, inserte un nombre.");
     document.getElementById("amigo").value = "";
@@ -28,3 +28,20 @@ function listaAmigos() {
     lista.innerHTML += `<li>${amigo}</li>`;
   });
 }
+
+function sortearAmigo() {
+  if (amigos == 0) {
+    alert("No hay amigos en la lista");
+    return;
+  } else {
+    let indiceRandom = Math.floor(Math.random() * amigos.length);
+    let amigoSorteado = amigos[indiceRandom];
+    document.getElementById("resultado").innerHTML = amigoSorteado;
+  }
+}
+
+document.getElementById("amigo").addEventListener("keydown", function (event) {
+  if (event.key === "Enter") {
+    agregarAmigo();
+  }
+});
