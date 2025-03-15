@@ -34,7 +34,7 @@ Con esta app, los usuarios pueden registrar a los participantes, administrar la 
  Un grupo de amigos quiere organizar el juego **Amigo Secreto**, cada uno ingresa su nombre en la aplicación y, al finalizar, la herramienta realiza el sorteo y muestra un nombre al azar de los ingresados, evitando que una persona se asigne a sí misma.
 
 <p align="center">
-  <img src="./paraREADME/./paraREADME/ejemplo.gif" alt="Vista previa del Proyecto">
+  <img src="./paraREADME/Ejemplo.gif" alt="Vista previa del Proyecto">
 </p>
 
 
@@ -62,8 +62,9 @@ Si prefieres ejecutar el proyecto localmente (en tu computadora), sigue las inst
 
 ## 🧑‍💻 Personas Desarrolladoras del Proyecto
 
-| [<img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" width=115><br><sub>Jhair Roussell Melendez Blas</sub>](https://github.com/yourgithubusername) |
+| [<img src="https://avatars.githubusercontent.com/u/181286163?v=4" width=115><br><sub>Jhair Roussell Melendez Blas</sub>](https://github.com/JhairRoussell2) |
 | :---: |
+
 
 
 ## 📜 Licencia
