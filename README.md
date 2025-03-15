@@ -34,7 +34,7 @@ Con esta app, los usuarios pueden registrar a los participantes, administrar la 
  Un grupo de amigos quiere organizar el juego **Amigo Secreto**, cada uno ingresa su nombre en la aplicación y, al finalizar, la herramienta realiza el sorteo y muestra un nombre al azar de los ingresados, evitando que una persona se asigne a sí misma.
 
 <p align="center">
-  <img src="./paraREADME/./paraREADME/ejemplo.gif" alt="Vista previa del Proyecto">
+  <img src="./paraREADME/Ejemplo.gif" alt="Vista previa del Proyecto">
 </p>
 
 
