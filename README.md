@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 100px;">Amigo Secreto 🎁🐱‍👤❔</h1>
+<h1 align="center" style="font-size: 50px;">Amigo Secreto 🎁🐱‍👤❔</h1>
 
 <p align="center">
   <img src="./paraREADME/1.jpg" alt="Animal Secreto">
@@ -21,7 +21,7 @@ Con esta app, los usuarios pueden registrar a los participantes, administrar la 
 ## 🚀 Estado del Proyecto
 
 <h4 align="center">
-🚀 Proyecto Completado 🎉
+🎉🚀Proyecto Completado 🚀🎉
 </h4>
 
 ## 🔨 Funcionalidades del proyecto
@@ -31,7 +31,7 @@ Con esta app, los usuarios pueden registrar a los participantes, administrar la 
 - `🖥️ Interfaz intuitiva:` Diseño limpio y fácil de usar para cualquier usuario.
 
 ### 📌 Ejemplo de uso:
- Un grupo de amigos quiere organizar un **Amigo Secreto**, cada uno ingresa su nombre en la aplicación y, al finalizar, la herramienta realiza el sorteo y muestra quién regalará a quién, evitando que una persona se asigne a sí misma.
+ Un grupo de amigos quiere organizar el juego **Amigo Secreto**, cada uno ingresa su nombre en la aplicación y, al finalizar, la herramienta realiza el sorteo y muestra un nombre al azar de los ingresados, evitando que una persona se asigne a sí misma.
 
 <p align="center">
   <img src="./paraREADME/demo.gif" alt="Vista previa del Proyecto">
