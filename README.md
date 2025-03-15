@@ -1,4 +1,4 @@
-# Amigo Secreto 🎁🐱‍👤❔
+<h1 align="center" style="font-size: 100px;">Amigo Secreto 🎁🐱‍👤❔</h1>
 
 <p align="center">
   <img src="./paraREADME/1.jpg" alt="Animal Secreto">
