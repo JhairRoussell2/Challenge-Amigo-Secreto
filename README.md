@@ -4,6 +4,16 @@
   <img src="./paraREADME/1.jpg" alt="Animal Secreto">
 </p>
 
+## 📌 Índice
+1. [Descripción del Proyecto](#-descripción-del-proyecto)
+2. [Estado del Proyecto](#-estado-del-proyecto)
+3. [Funcionalidades del Proyecto](#-funcionalidades-del-proyecto)
+4. [Ejemplo de Uso](#-ejemplo-de-uso)
+5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+6. [Personas Desarrolladoras del Proyecto](#-personas-desarrolladoras-del-proyecto)
+7. [Licencia](#-licencia)
+
+
 ## 📖 Descripción del Proyecto  
 **Amigo Secreto** es una aplicación web fácil de usar que ayuda a organizar el clásico intercambio de regalos entre amigos.  
 Con esta app, los usuarios pueden registrar a los participantes, administrar la lista de nombres y hacer el sorteo de manera justa y al azar, sin complicaciones.
