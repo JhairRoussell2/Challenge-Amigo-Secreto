@@ -62,8 +62,9 @@ Si prefieres ejecutar el proyecto localmente (en tu computadora), sigue las inst
 
 ## 🧑‍💻 Personas Desarrolladoras del Proyecto
 
-| [<img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" width=115><br><sub>Jhair Roussell Melendez Blas</sub>](https://github.com/yourgithubusername) |
+| [<img src="https://avatars.githubusercontent.com/u/181286163?v=4" width=115><br><sub>Jhair Roussell Melendez Blas</sub>](https://github.com/JhairRoussell) |
 | :---: |
+
 
 
 ## 📜 Licencia
